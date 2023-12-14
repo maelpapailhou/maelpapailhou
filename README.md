@@ -1,10 +1,8 @@
 🇫🇷 Law student in France
 
 💻 Learning to develop in Java for video game development, as well as managing databases in MySQL and setting up dedicated server hosting
-
-🏛️ Political consultant for a conservative party, helping with social media communication to promote audience growth
 		
-🏦 Passionate investor, with knowledge in financial analysis and a focus on investing in stocks and startups
+🏦 Knowledge in financial analysis and a focus on investing in stocks and startups
 
 💬 Contact me at maelpapailhou@gmail.com or follow me on Instagram @maelpapailhou
 
