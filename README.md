@@ -1,4 +1,4 @@
-salut c'est moi tchoupi
+<3
 <!---
 I am a law student based in France with an interest in technology, finance, and politics. In addition to my studies, I am currently learning to develop in Java, with a focus on video game development, managing databases in MySQL, and setting up dedicated server hosting.
 
